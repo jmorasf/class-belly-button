@@ -2,7 +2,7 @@
 
 In this project, we created an interactive dashboard to explore the Belly Button Biodiversity Dataset.
 
-. Step 1 - Plotly.js
+## Step 1 - Plotly.js
 
 We used Plotly.js to build interactive charts for the dashboard.
 
@@ -16,10 +16,10 @@ We also displayed the sample metadata from the route /metadata/<sample>. And
 
 The dashboard updates all the plots any time a new sample is selected.
 
-. Step 2 - Heroku
+## Step 2 - Heroku
 
 The app was deployed to Heroku.
 
-. Step 3. Advanced Challenge Assignment 
+## Step 3. Advanced Challenge Assignment 
 
 We adapted the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the Weekly Washing Frequency obtained from the /metadata/<sample>route.
